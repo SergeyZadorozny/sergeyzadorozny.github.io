@@ -1,0 +1,131 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-icon-arrow-down {
+    width: 11px;
+    height: 10px;
+    background-position: -15px -15px;
+}
+
+.sprite-icon-arrow-downact {
+    width: 9px;
+    height: 9px;
+    background-position: -15px -55px;
+}
+
+.sprite-icon-arrow-up {
+    width: 11px;
+    height: 10px;
+    background-position: -15px -94px;
+}
+
+.sprite-icon-arrow-upact {
+    width: 11px;
+    height: 10px;
+    background-position: -15px -134px;
+}
+
+.sprite-icon-basket {
+    width: 17px;
+    height: 16px;
+    background-position: -15px -174px;
+}
+
+.sprite-icon-bookmarks {
+    width: 14px;
+    height: 16px;
+    background-position: -15px -220px;
+}
+
+.sprite-icon-chek {
+    width: 23px;
+    height: 23px;
+    background-position: -15px -266px;
+}
+
+.sprite-icon-chek-akt {
+    width: 27px;
+    height: 23px;
+    background-position: -15px -319px;
+}
+
+.sprite-icon-fb {
+    width: 10px;
+    height: 18px;
+    background-position: -15px -372px;
+}
+
+.sprite-icon-home {
+    width: 15px;
+    height: 12px;
+    background-position: -15px -420px;
+}
+
+.sprite-icon-inst {
+    width: 17px;
+    height: 17px;
+    background-position: -15px -462px;
+}
+
+.sprite-icon-login-hov {
+    width: 20px;
+    height: 17px;
+    background-position: -15px -509px;
+}
+
+.sprite-icon-logout-hov {
+    width: 21px;
+    height: 17px;
+    background-position: -15px -556px;
+}
+
+.sprite-icon-phone {
+    width: 19px;
+    height: 19px;
+    background-position: -15px -603px;
+}
+
+.sprite-icon-radio {
+    width: 25px;
+    height: 25px;
+    background-position: -15px -652px;
+}
+
+.sprite-icon-radio-act {
+    width: 25px;
+    height: 25px;
+    background-position: -15px -707px;
+}
+
+.sprite-icon-search {
+    width: 17px;
+    height: 17px;
+    background-position: -15px -762px;
+}
+
+.sprite-icon-search-act {
+    width: 17px;
+    height: 17px;
+    background-position: -15px -809px;
+}
+
+.sprite-icon-user {
+    width: 20px;
+    height: 18px;
+    background-position: -15px -856px;
+}
+
+.sprite-icon-vk {
+    width: 20px;
+    height: 12px;
+    background-position: -15px -904px;
+}
+
+.sprite-red-line {
+    width: 25px;
+    height: 2px;
+    background-position: -15px -946px;
+}
